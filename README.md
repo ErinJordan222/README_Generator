@@ -6,3 +6,20 @@ The purpose of this project is to demonstrate my knowledge of npm inquirer and a
 
 ## Table of Contents
 *[Description](#description)
+*[Installation](#installation)
+*[Test](#test)
+*[Usage](#usage)
+*[Contribution](#contribution)
+*[Questions](#questions)
+
+## Installation
+
+## Test
+
+## Usage
+
+## Contribution
+
+## Questions?
+
+
