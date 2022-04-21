@@ -9,7 +9,8 @@ The purpose of this project is to demonstrate my knowledge of npm inquirer and a
 * [Installation](#installation)
 * [Test](#test)
 * [Usage](#usage)
-
+* [Contribution](#contribution)
+* [Questions](#questions)
 
 ## Installation
 
@@ -20,5 +21,6 @@ The purpose of this project is to demonstrate my knowledge of npm inquirer and a
 ## Contribution
 
 ## Questions?
-
+Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.com">ErinJordan2790@gmail.com</a> <br> or
+<a href="https://github.com/ErinJordan222">ErinJordan222</a> <br>
 
