@@ -4,27 +4,30 @@
 Erin Jordan's Good README Generator Week 9 Project for Denver University Coding Bootcamp. 
 The purpose of this project is to demonstrate my knowledge of npm inquirer and also node index.js to be able to write and generate my README through VS Code.
 
+* https://github.com/ErinJordan222/README_Generator.git
+
 ## Table of Contents
 * [Description](#description)
-* [Installation](#installation)
-* [Test](#test)
-* [Usage](#usage)
+* [Code](#code)
 * [Contribution](#contribution)
 * [Questions](#questions)
+* [Screenshot/Video](#screenshot/video)
 
-## Installation
 
-## Test
-
-## Usage
+## Code
+* javascript
+* npm i
+* npm test
+* node
 
 ## Contribution
+University of Denver: Bootcamp Coding
 
 ## Questions?
 Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.com">ErinJordan2790@gmail.com</a> or
 <a href="https://github.com/ErinJordan222">ErinJordan222</a>
 
-## Screenshot/ Video
+## Screenshot/Video
 
 ### Video of terminal use of npm i and node index.js in the folder named: 
 * examples
