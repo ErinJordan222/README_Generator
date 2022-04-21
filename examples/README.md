@@ -1,10 +1,10 @@
 
-  # test
+  # Good README Generator
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description:
-  test
+  Short description of project here
 
   ## Table of Contents
   * [Description](#description)
@@ -18,15 +18,15 @@
   npm i
 
   ## Usage:
-  test
+  Short paragraph on the usage of repo here
 
   ## Contribution:
-  ttest
+  Denver University Coding Bootcamp
 
   ## Test:
   npm test
 
   ## Questions?
-  Any questions feel free to contact me at test or test
+  Any questions feel free to contact me at ErinJordan2790@gmail.com or ErinJordan222
   
 
