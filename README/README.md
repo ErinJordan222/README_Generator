@@ -26,7 +26,7 @@ Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.c
 
 ## Screenshot/ Video
 
-### Video of terminal use of npm i and node index.js in the folder named: 
+### Video of terminal use of <span style="color: yellow">npm i </span> and <span style="color: yellow">node </span> index.js in the folder named: 
 * examples
 
 ![Terminal_node](https://user-images.githubusercontent.com/92272866/164561966-50818de8-f2ae-4144-855b-95f97c25a7e2.png)
