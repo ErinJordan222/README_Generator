@@ -5,10 +5,10 @@ Erin Jordan's Good README Generator Week 9 Project for Denver University Coding 
 The purpose of this project is to demonstrate my knowledge of npm inquirer and also node index.js to be able to write and generate my README through VS Code.
 
 ## Table of Contents
-* [#Description](#description)
-* [#Installation](#installation)
-* [#Test](#test)
-* [#Usage](#usage)
+* [Description](#description)
+* [Installation](#installation)
+* [Test](#test)
+* [Usage](#usage)
 
 
 ## Installation
