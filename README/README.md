@@ -27,6 +27,6 @@
   npm test
 
   ## Questions?
-  Any questions feel free to contact me at ErinJordan2790@gmail.com or ErinJordan222
+  Any questions feel free to contact me at ${data.email} or https://github.com/${data.username}
   
 
