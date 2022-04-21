@@ -1,15 +1,16 @@
 # Good README Generator
 
 ## Description
-### Erin Jordan's Good README Generator Week 9 Project for Denver University Coding Bootcamp. 
-#### The purpose of this project is to demonstrate my knowledge of npm inquirer and
-#### also node index.js to be able to write and generate my README through VS Code.
+### Erin Jordan's Good README Generator Week 9 Project for University of Denver Coding Bootcamp. 
+#### The purpose of this project is to demonstrate my knowledge of npm inquirer and also node index.js 
+#### in order to be able to create and generate my README.md through Visual Studio Code and git pull onto my github page.
 
 * https://github.com/ErinJordan222/README_Generator.git
 
 ## Table of Contents
 * [Description](#description)
 * [Code](#code)
+* [Usage](#usage)
 * [Contribution](#contribution)
 * [Questions](#questions)
 * [Screenshots](#screenshots)
@@ -21,8 +22,11 @@
 * npm test
 * node
 
+## Usage
+#### Usage of this repo is to use npm, node and javascript to generate a good README.
+
 ## Contribution
-### University of Denver: Bootcamp Coding
+### University of Denver Coding Bootcamp.
 
 ## Questions?
 ### Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.com">ErinJordan2790@gmail.com</a> or <a href="https://github.com/ErinJordan222">ErinJordan222</a>
