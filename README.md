@@ -4,7 +4,7 @@
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description:
-  Description of project written here
+  Short description of project here
 
   ## Table of Contents
   * [Description](#description)
@@ -18,7 +18,7 @@
   npm i
 
   ## Usage:
-  Usage of repo written here
+  Short paragraph about the usage of this repo here
 
   ## Contribution:
   DU- Coding Bootcamp
@@ -26,6 +26,7 @@
   ## Test:
   npm test
 
-  ##Questions:
+  ## Questions?
   Any questions feel free to contact me at ErinJordan2790@gmail.com or ErinJordan222
   
+
