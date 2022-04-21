@@ -28,7 +28,6 @@
 ### Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.com">ErinJordan2790@gmail.com</a> or <a href="https://github.com/ErinJordan222">ErinJordan222</a>
 
 ## Screenshots
-### First video is to show it works & keep video clip short where as the screenshot is another node index.js I did to build my actual README.md
 
 https://user-images.githubusercontent.com/92272866/164567839-6b2c17da-5782-44fb-ade9-925dfe321c27.mp4
 
