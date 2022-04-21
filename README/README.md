@@ -27,7 +27,7 @@ Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.c
 ## Screenshot/ Video
 
 ### Video of terminal use of npm i and node index.js in the folder named: 
-* [examples]
+* examples
 
 ![Terminal_node](https://user-images.githubusercontent.com/92272866/164561966-50818de8-f2ae-4144-855b-95f97c25a7e2.png)
 ![Terminal_git](https://user-images.githubusercontent.com/92272866/164561986-3005bb26-7ede-4fbe-84a1-d0734cab0a00.png)
