@@ -21,16 +21,16 @@ function generateMarkdown(data) {
   ## Installation:
   ${data.installation}
 
-  ## Test:
-  ${data.test}
-
   ## Usage:
   ${data.usage}
 
   ## Contribution:
   ${data.contribution}
 
-  ## Questions:
+  ## Test:
+  ${data.test}
+
+  ##Questions:
   Any questions feel free to contact me at ${data.email} or ${data.github}
   
 `;
