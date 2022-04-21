@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const inquirer = require('inquirer');
-const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./Develop/utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -16,7 +16,6 @@ const questions = [
     name: 'email',
     message: 'What is your email address?',
 },
-
 {
     type: 'input',
     name: 'title',
@@ -31,7 +30,7 @@ const questions = [
     type: 'list',
     name: 'license',
     message: 'What license should your project have?',
-    choices: ['MIT', 'APACHE 2.0', 'BSD 3', 'GPL 3.0', 'NONE'],
+    default: 'MIT',
 },
 {
     type: 'input',
@@ -52,7 +51,7 @@ const questions = [
 },
 {
     type:'input',
-    name:'contributing',
+    name:'contribution',
     message:'Write any contribution used towards this repo/project',
 },
 ];
