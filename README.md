@@ -25,8 +25,7 @@
 ### University of Denver: Bootcamp Coding
 
 ## Questions?
-### Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.com">ErinJordan2790@gmail.com</a> or
-<a href="https://github.com/ErinJordan222">ErinJordan222</a>
+### Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.com">ErinJordan2790@gmail.com</a> or <a href="https://github.com/ErinJordan222">ErinJordan222</a>
 
 ## Screenshot/Video
 ### First video is to show it works & keep video clip short where as the screenshot is another node index.js I did to build my actual README.md
